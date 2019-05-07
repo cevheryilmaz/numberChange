@@ -1,0 +1,7 @@
+C:\Users\Cevher\source\repos\NumberChange\NumberChange\bin\Debug\NumberChange.exe.config
+C:\Users\Cevher\source\repos\NumberChange\NumberChange\bin\Debug\NumberChange.exe
+C:\Users\Cevher\source\repos\NumberChange\NumberChange\bin\Debug\NumberChange.pdb
+C:\Users\Cevher\source\repos\NumberChange\NumberChange\obj\Debug\NumberChange.csprojAssemblyReference.cache
+C:\Users\Cevher\source\repos\NumberChange\NumberChange\obj\Debug\NumberChange.csproj.CoreCompileInputs.cache
+C:\Users\Cevher\source\repos\NumberChange\NumberChange\obj\Debug\NumberChange.exe
+C:\Users\Cevher\source\repos\NumberChange\NumberChange\obj\Debug\NumberChange.pdb
